@@ -1,0 +1,27 @@
+body {
+	background: #0099ff;
+	font-family: Arial;
+}
+
+
+h1 {
+	margin: 5vh;
+}
+
+h1, h2, h3 {
+	text-align: center;
+	color: white;
+}
+
+button {
+	display: inline-block;
+	margin: 30px auto;
+	padding: 10px 30px;
+	background: #0099ff;
+	color: white;
+}
+
+ul {
+	text-align: center;
+}
+
